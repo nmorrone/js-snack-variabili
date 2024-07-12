@@ -1,10 +1,10 @@
 //dichiaro constant PI e assegno valore
-const PI = '3.14' //number
+const PI = 3.14 //number
 //stampo in console
 console.log(PI)
 
 //assegno nuovo valore alla constante
-const PI = '3.1416' //number
+const PI = 3.1416 //number
 //stampo di nuovo in console
 console.log(PI)
 
@@ -12,7 +12,7 @@ console.log(PI)
 provando a riassegnare un valore a PI la console stamperà un errore
 dove SyntaxError 'PI' already been declared */
 
-let PI = '3.1416' //number
+let PI = 3.1416 //number
 
 console.log(PI)
 
