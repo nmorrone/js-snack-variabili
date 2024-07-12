@@ -1,11 +1,11 @@
 //dichiaro la variabile
-let name = 'Carlo'
+let name = 'Carlo' //string
 
 //stampo in console
 console.log(name)
 
 //assegno nuovo valore a name
-name = 'Marco'
+name = 'Marco' //string
 
 //stampo in console
 console.log(name)
